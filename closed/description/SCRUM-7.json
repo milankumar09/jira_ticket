@@ -1,0 +1,5 @@
+{
+  "issue_key": "SCRUM-7",
+  "summary": "Supply event processing is delayed for a test device",
+  "description": "Issue Summary:\nSupply event is taking longer than expected after device registration.\nEnvironment:\nTest\nSteps:\nRegister a test device.\nTrigger supply event.\nVerify event processing.\nExpected Result:\nSupply event should be processed successfully.\nActual Result:\nSupply event processing is delayed.\nPurpose:\nCreated for Jira workflow testing."
+}
