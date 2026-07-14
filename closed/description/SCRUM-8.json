@@ -1,0 +1,5 @@
+{
+  "issue_key": "SCRUM-8",
+  "summary": "Device registration is delayed for a test device",
+  "description": "Issue Summary:\nDevice registration is taking longer than expected during testing.\nEnvironment:\nTest\nSteps:\nRegister a test device.\nVerify registration status.\nExpected Result:\nDevice should register within 30 seconds.\nActual Result:\nRegistration completed after approximately 2 minutes.\nPurpose:\nCreated for Jira workflow testing."
+}
