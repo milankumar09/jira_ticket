@@ -1,0 +1,15 @@
+{
+  "issue_key": "SCRUM-6",
+  "comments": [
+    {
+      "author": "Milan Kumar",
+      "created": "2026-07-13T16:17:28.903+0530",
+      "body": "Initial investigation started.\nCollected manufacturing event logs for analysis."
+    },
+    {
+      "author": "Milan Kumar",
+      "created": "2026-07-13T16:25:51.000+0530",
+      "body": "Investigation completed.\nManufacturing event was missing due to incomplete input data."
+    }
+  ]
+}
