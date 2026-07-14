@@ -1,0 +1,5 @@
+{
+  "issue_key": "SCRUM-6",
+  "summary": "Manufacturing event is missing for a test device",
+  "description": "Issue Summary:\nManufacturing event is not generated after registering a test device.\nEnvironment:\nTest\nSteps:\nRegister a test device.\nVerify manufacturing event.\nExpected Result:\nManufacturing event should be generated.\nActual Result:\nManufacturing event is missing.\nPurpose:\nCreated for Jira workflow testing."
+}
