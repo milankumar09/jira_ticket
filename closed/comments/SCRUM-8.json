@@ -1,0 +1,20 @@
+{
+  "issue_key": "SCRUM-8",
+  "comments": [
+    {
+      "author": "Milan Kumar",
+      "created": "2026-07-13T17:17:15.404+0530",
+      "body": "Initial investigation started.\nRegistration logs have been collected for analysis."
+    },
+    {
+      "author": "Milan Kumar",
+      "created": "2026-07-13T17:28:48.692+0530",
+      "body": "Root cause identified.\nRegistration delay was caused by a temporary service timeout.\nIssue verified and ready to close."
+    },
+    {
+      "author": "Milan Kumar",
+      "created": "2026-07-13T17:35:40.527+0530",
+      "body": "Post-closure verification completed.\nThe service is responding normally and device registration time is within the expected range.\nNo further action is required."
+    }
+  ]
+}
